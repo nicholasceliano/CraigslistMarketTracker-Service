@@ -1,0 +1,8 @@
+C:\git\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\bin\Debug\CraigslistMarketTracker-Service.exe
+C:\git\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\bin\Debug\CraigslistMarketTracker-Service.pdb
+C:\git\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\obj\Debug\CraigslistMarketTracker-Service.csprojResolveAssemblyReference.cache
+C:\git\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\obj\Debug\CraigslistMarketTracker-Service.exe
+C:\git\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\obj\Debug\CraigslistMarketTracker-Service.pdb
+C:\git\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\bin\Debug\HtmlAgilityPack.dll
+C:\git\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\bin\Debug\HtmlAgilityPack.pdb
+C:\git\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\CraigslistMarketTracker-Service\bin\Debug\HtmlAgilityPack.xml
